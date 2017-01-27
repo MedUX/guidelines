@@ -33,4 +33,6 @@
 
 ## Conventions
 
-Our coding conventions are strongly based on [Hapijs' Coding Conventions](https://github.com/hapijs/contrib/blob/master/Style.md). This helps understanding very quickly the code of others and facilitate working together. Embrace this conventions and propose changes that are helpful for the community.
+Our coding conventions are strongly based on **[Hapijs' Coding Conventions](https://github.com/hapijs/contrib/blob/master/Style.md)**. This helps understanding very quickly the code of others and facilitate working together. Embrace this conventions and propose changes that are helpful for the community.
+
+To help to conform to this conventions, we use **Hapijs' Lab linter** that enables uniformity in our code-base. This linter helps your code to look like your colleagues, and makes our life easier.
